@@ -165,7 +165,7 @@ while opc != '3': #Menu Principal
             system('cls')
     elif opc == '3':
         print("***Saliendo del sistema, que tenga un buen dia***")
-        exit
+        exit()
     else:
         print("Opcion invalida")
     system('cls')
